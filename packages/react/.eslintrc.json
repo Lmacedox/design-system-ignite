@@ -1,5 +1,5 @@
 {
-    "extends": "@ignite-ui/eslint-config",
+    "extends": "@design-ui-system-lmdx/eslint-config",
     "rules": {
         "@typescript-eslint/no-empty-interface": "off"
     }
