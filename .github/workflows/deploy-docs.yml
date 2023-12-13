@@ -20,7 +20,7 @@ jobs:
       - run: npm ci
 
       - run: npm run build
-          env: 
+        env: 
             TURBO_TOKEN: DoyhLKsccNz1hJ0s3HFYYqzK
             TURBO_TEAM: lucas-macedos-projects
 
