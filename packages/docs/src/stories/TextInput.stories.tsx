@@ -1,7 +1,12 @@
 import React from 'react'
 import type { Meta, StoryObj } from '@storybook/react'
 
-import { Box, Text, TextInput, TextInputProps } from '@design-ui-system-lmdx/react'
+import {
+  Box,
+  Text,
+  TextInput,
+  TextInputProps,
+} from '@design-ui-system-lmdx/react'
 
 export default {
   title: 'form/TextInput',
@@ -27,6 +32,7 @@ export const Disabled: StoryObj<TextInputProps> = {
 export const WithPrefix: StoryObj<TextInputProps> = {
   args: {
     prefix: 'cal.com/',
+    placeholder: 'Your-username',
   },
 }
 

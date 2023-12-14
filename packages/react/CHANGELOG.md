@@ -1,5 +1,11 @@
 # @design-ui-system-lmdx/react
 
+## 4.0.1
+
+### Patch Changes
+
+- Add some fixes to future projects
+
 ## 4.0.0
 
 ### Major Changes
