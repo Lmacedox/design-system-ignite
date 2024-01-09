@@ -1,0 +1,2 @@
+import{A as a}from"./index.49f62e6e.js";import"./index.7fdf2d22.js";import"./iframe.55c25538.js";import"./index.c0ecae65.js";import"./jsx-runtime.41d2871a.js";const i={title:"Data display/Avatar",component:a},m={args:{src:"https://avatars.githubusercontent.com/u/62385353?s=400&u=69885f3c81a1268a38776d8c0f5db5bd45279fa7&v=4",alt:"Lucas Macedo"}},e={},p=["Primary","WithFallback"];export{m as Primary,e as WithFallback,p as __namedExportsOrder,i as default};
+//# sourceMappingURL=Avatar.stories.3baca733.js.map

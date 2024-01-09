@@ -1,0 +1,2 @@
+import{T as i}from"./index.49f62e6e.js";import"./index.7fdf2d22.js";import"./iframe.55c25538.js";import"./index.c0ecae65.js";import"./jsx-runtime.41d2871a.js";const s={title:"Typography/Text",component:i,args:{children:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur quis vero, aliquam quam sapiente doloribus eveniet, corrupti facilis blanditiis hic ratione aliquid magni."},argTypes:{children:{control:"text"}}},n={},m=["Primary"];export{n as Primary,m as __namedExportsOrder,s as default};
+//# sourceMappingURL=Text.stories.eac8888a.js.map

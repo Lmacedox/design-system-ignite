@@ -1,0 +1,2 @@
+import{H as o}from"./index.49f62e6e.js";import"./index.7fdf2d22.js";import"./iframe.55c25538.js";import"./index.c0ecae65.js";import"./jsx-runtime.41d2871a.js";const s={title:"Typography/Heading",component:o,args:{size:"md",children:"Heading Document"},argTypes:{size:{options:["sm","md","lg","2xl","3xl","4xl","5xl","6xl"],control:{type:"inline-radio"}}}},n={parameters:{docs:{description:{story:"Elemento H2, usado para titulos da p\xE1gina"}}}},p=["Primary"];export{n as Primary,p as __namedExportsOrder,s as default};
+//# sourceMappingURL=Heading.stories.990cc53c.js.map
